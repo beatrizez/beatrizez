@@ -1,6 +1,7 @@
-## Hi there °.•☆•.°  જ⁀➴
+## Hi there °.•☆•.°  
 
-I'm Beatriz, a Computer Engenieering student
+I'm Beatriz, a Computer Engenieering student in Granada-Spain. 
+I'm currently on my 4th year and excited for whats waiting for me and my future laboral life!
 
 
 
