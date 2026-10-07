@@ -2,6 +2,14 @@
 
 I'm Beatriz, a Computer Engenieering student
 
+∧＿∧
+　 (｡･ω･｡)つ━☆・*。
+  ⊂/　     /　   ・゜
+　しーＪ　　　     °。+ * 。　
+　　　　　                      .・゜
+　　　　　                      ゜｡ﾟﾟ･｡･ﾟﾟ。
+　　　　                         　ﾟ。　 　｡ﾟ
+                                              　ﾟ･｡･ﾟ
 
 <!--
 **beatrizez/beatrizez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
