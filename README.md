@@ -2,7 +2,9 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-## Hi there, I'm Beatriz °.•☆•.°  
+## Hey there! I'm Beatriz °.•☆•.°  
+
+<img align="right" width=300px alt="Unicorn" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://tenor.com/es/view/rain-girl-kitty-gif-11434257)" />
 
 #### ☆✼★━━━━━━ About me ━━━━━★✼☆
 I am a Computer Engenieering student at the University of Granada (UGR) in Granada-Spain, currently on the last year of my degree.
