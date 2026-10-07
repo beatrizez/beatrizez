@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Beatriz, a Computer Engenieering student
+
+
 <!--
 **beatrizez/beatrizez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
