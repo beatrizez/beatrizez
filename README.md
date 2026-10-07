@@ -21,7 +21,7 @@ I am a Computer Engineering student at the University of Granada (UGR) in Granad
 <h4> Languages </h4>
 <span> 
   <!-- C++ --> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <!-- Java --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <!-- Java --> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <!-- Python --> <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   <!-- PHP --> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">  
 </span> 
@@ -29,7 +29,7 @@ I am a Computer Engineering student at the University of Granada (UGR) in Granad
 <h4> Frontend / Web </h4>
 <span> 
   <!-- HTML5 --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <!-- CSS --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <!-- CSS --> <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white">
 </span> 
 
 
