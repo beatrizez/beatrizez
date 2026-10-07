@@ -1,6 +1,6 @@
 ## Hi there, I'm Beatriz °.•☆•.°  
 
-# ｡☆✼★━━━━━━ About me ━━━━━★✼☆｡
+### ｡☆✼★━━━━━━ About me ━━━━━★✼☆｡
 I am a Computer Engenieering student in Granada-Spain, currently on the last year of my degree.
 
 
