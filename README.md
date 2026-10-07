@@ -6,10 +6,13 @@
 
 ### ☆✼★━━━━━━ About me ━━━━━★✼☆
 
-I am a Computer Engenieering student at the University of Granada (UGR) in Granada-Spain, currently on the last year of my degree.
+I am a Computer Engineering student at the University of Granada (UGR) in Granada-Spain, currently on the last year of my degree.
 
 
-Spotify Playing 🎧 --> [![Spotify](https://open.spotify.com/user/beatriz17905?si=fabe8ee550d44e8c)
+<h5> Spotify Playing 🎧 </h5>
+<span> 
+  <!-- Spotify --> <a href="https://open.spotify.com/user/beatriz17905?si=fabe8ee550d44e8c"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+</span>
 
 
 
