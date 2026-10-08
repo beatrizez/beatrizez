@@ -6,7 +6,7 @@
 
 ### ☆✼★━━━━━━ About me ━━━━━★✼☆
 
-I am a Computer Engineering student at the University of Granada (UGR) in Granada-Spain, currently on the last year of my degree. 👩🏻‍💻🎓
+I am a Computer Engineering student at the University of Granada (UGR), currently on my last year of the degree. 👩🏻‍💻🎓
 
 I am passionate about creating visually appealing projects, which is why I have such a soft spot for **Frontend and CSS**. I truly enjoy the process of making things look beautiful and polished! ✨
 
