@@ -9,9 +9,14 @@
 I am a Computer Engineering student at the University of Granada (UGR) in Granada-Spain, currently on the last year of my degree.
 
 
-<h5> Spotify Playing 🎧 </h5>
+<h4> Spotify Playing 🎧 </h4>
 <span> 
   <!-- Spotify --> <a href="https://open.spotify.com/user/beatriz17905?si=fabe8ee550d44e8c"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
+</span>
+
+<h4> Contact me! <a href="mailto:beatrizmartin17905@gmail.com">beatrizmartin17905@gmail.com</a> </h4>
+<span> 
+  <!-- GMail --> <a href="mailto:beatrizmartin17905@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </span>
 
 
