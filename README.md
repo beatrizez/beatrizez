@@ -6,7 +6,12 @@
 
 ### ☆✼★━━━━━━ About me ━━━━━★✼☆
 
-I am a Computer Engineering student at the University of Granada (UGR) in Granada-Spain, currently on the last year of my degree.
+I am a Computer Engineering student at the University of Granada (UGR) in Granada-Spain, currently on the last year of my degree. 👩🏻‍💻🎓
+
+I am passionate about creating visually appealing projects, which is why I have such a soft spot for **Frontend and CSS**. I truly enjoy the process of making things look beautiful and polished! ✨
+
+I also love developing small, practical applications to make daily life easier, like custom To-Do lists or Pomodoro timers. 
+In fact, if I need a specific tool and I know I can code it, I always prefer building it myself rather than searching for an existing one. There is something incredibly fulfilling about using your own software every day! 🤍💻
 
 
 <h4> Spotify Playing 🎧 </h4>
